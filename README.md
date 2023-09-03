@@ -5,8 +5,8 @@
 
 ![Screenshot from 2023-09-03 19-51-03](https://github.com/sebitse/Paint-in-CPP/assets/137815242/23122b72-c01f-40b9-bc48-7be7ecad799e)
 
+<hr>
 <h3>I made this project as my first interaction with SFML library, and what can I say is that is fun to try.</h3>
-
 <h3>To run the program all you need to do is to run the output.exe file and draw by holding down the left click.</h3>
 <hr>
 
